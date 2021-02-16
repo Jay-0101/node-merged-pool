@@ -34,7 +34,7 @@
         "url": "https://github.com/UNOMP/node-merged-pool.git"
     },
     "dependencies": {
-        "multi-hash": "https://github.com/zone117x/node-multi-hashing",
+        "node-multi-hashing": "https://github.com/zone117x/node-multi-hashing",
         "bignum": "0.13.1",
         "base58-native": "*",
         "async": "*",
