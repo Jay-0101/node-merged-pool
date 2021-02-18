@@ -35,7 +35,7 @@
     },
     "dependencies": {
         "node-multi-hashing": "https://github.com/Jay-0101/node-multi-hashing-1",
-        "bignum": "0.12.5",
+        "bignum": "0.11.0",
         "base58-native": "*",
         "async": "*",
         "redis": "*"
