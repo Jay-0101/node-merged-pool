@@ -34,7 +34,7 @@
         "url": "https://github.com/Jay-0101/node-merged-pool1.git"
     },
     "dependencies": {
-        "node-multi-hashing": "https://github.com/zone117x/node-multi-hashing",
+        "node-multi-hashing": "https://github.com/Jay-0101/node-multi-hashing-1",
         "bignum": "0.13.1",
         "base58-native": "*",
         "async": "*",
